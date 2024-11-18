@@ -1,11 +1,11 @@
-# Population, Citizenship, and Apportionment in Georgia
+# Population, Citizenship, and Apportionment in Colorado
 
-## Naming Conventions
-#### Notes: 
-* In our demographic data , the numerical suffix denotes the data source.  10 indicates that the column values are from the decennial census, and 18 indicates that the column values are from the ACS 2014-2018 5 year release.
+## Data Cleaning
+In our demographic data , the numerical suffix denotes the data source. 20 indicates that the column
+values are from the decennial census, and 23 indicates that the column values are from the ACS
+2019-2023 5 year release.
 
 ### Demographic columns
-
 * TOTPOP: Total population
 * NH_WHITE: White, non-hispanic, population
 * NH_BLACK: Black, non-hispanic, population
@@ -31,3 +31,4 @@
 * NHPIVAP: Native Hawaiian and Pacific Islander, non-hispanic, voting age population
 * OTHERVAP: Other race, non-hispanic, voting age population
 * 2MOREVAP: Two or more races, non-hispanic, voting age population
+
